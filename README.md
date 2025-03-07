@@ -5,7 +5,7 @@
 <img src="assets/img.png" >
 
 
-Soy de un pequeño paraiso costero, Punta Umbría (Huelva). Mis aficiones son el deporte y la tecnología y gracias a mi amor por esta, he estudiado Desarrollo de Aplicaciones Web (DAW). Actualmente estoy finalizando Desarrollo de Aplicaciones Multiplataforma (DAM) y comenzando el Swift Developer Program en Apple Coding Academy.
+Soy de un pequeño paraiso costero, Punta Umbría (Huelva). Mis aficiones son el deporte y la tecnología y gracias a mi pasión por esta, he estudiado Desarrollo de Aplicaciones Web (DAW). Actualmente estoy finalizando Desarrollo de Aplicaciones Multiplataforma (DAM) y comenzando el Swift Developer Program en Apple Coding Academy.
 Tengo experiencia de trabajo como  iOS Developer  y experiencia formativa en el desarrollo web.
 
 ## 🚀 Sobre mí  
