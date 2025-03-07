@@ -1,12 +1,19 @@
-# 👋 ¡Hola! Soy Antonio Hernández  
+# <img src="assets/avatar.png" width="50" > ¡Hola! Soy Antonio Hernández Barbadilla 👋 
+
+ Junior iOS Developer  
 
 <img src="assets/img.png" >
 
+
+Soy de un pequeño paraiso costero, Punta Umbría (Huelva). Mis aficiones son el deporte y la tecnología y gracias a mi amor por esta, he estudiado Desarrollo de Aplicaciones Web (DAW). Actualmente estoy finalizando Desarrollo de Aplicaciones Multiplataforma (DAM) y comenzando el Swift Developer Program en Apple Coding Academy.
+Tengo experiencia de trabajo como  iOS Developer  y experiencia formativa en el desarrollo web.
+
 ## 🚀 Sobre mí  
+📱 **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAW).**  
 💻 **Grado Superior en Desarrollo de Aplicaciones Web (DAW).**  
-📱 Actualmente cursando el **Swift Developer Program con Apple Coding Academy**.  
-🌱 Apasionado por el desarrollo en **Android (Java, Kotlin)** y **Swift (iOS)**.  
-📚 Siempre aprendiendo sobre **frontend y backend**.  
+ **   Actualmente cursando el **Swift Developer Program con Apple Coding Academy**.  
+🌱 Apasionado por el desarrollo en **iOS (Swift)**, **Android (Java, Kotlin)** y **WEB (Java, JavaScript)**.  
+📚 Siempre aprendiendo como filosofía de vida.  
 
 ## 🛠️ Tecnologías y herramientas  
 🔹 **Lenguajes**: Swift, Objective-C, Java, JavaScript, PHP  
