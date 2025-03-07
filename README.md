@@ -1,5 +1,7 @@
 # 👋 ¡Hola! Soy Antonio Hernández  
 
+<img src="assets/img.png" >
+
 ## 🚀 Sobre mí  
 💻 **Grado Superior en Desarrollo de Aplicaciones Web (DAW).**  
 📱 Actualmente cursando el **Swift Developer Program con Apple Coding Academy**.  
