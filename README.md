@@ -24,7 +24,7 @@ Tengo experiencia de trabajo como  iOS Developer  y experiencia formativa 
 ## 📌 Proyectos destacados  
 - 📱 **[Mi App de Notas](https://github.com/tu-usuario/mi-app-notas)** (Android + SQLite)  
 - ⏳ **[Temporizador Pomodoro](https://github.com/tu-usuario/pomodoro-app)** (Swift + SwiftUI)  
-- 🌐 **[Mi portafolio](https://github.com/tu-usuario/mi-portafolio)** (HTML, CSS, JavaScript)  
+- 🌐 **[Mi portafolio](https://antonio93hb.github.io/portfolio/index.html)** (HTML, CSS, JavaScript)  
 
 ## 📫 Contacto  
 📧 Email: [antonio93hb@hotmail.com](mailto:antonio93hb@hotmail.com)  
