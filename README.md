@@ -22,8 +22,9 @@ Tengo experiencia de trabajo como  iOS Developer  y experiencia formativa 
 🔹 **Otros**: GitHub, Git, Markdown, Fork, GitKraken  
 
 ## 📌 Proyectos destacados  
-- 📱 **[Mi App de Notas](https://github.com/tu-usuario/mi-app-notas)** (Android + SQLite)  
-- ⏳ **[Temporizador Pomodoro](https://github.com/tu-usuario/pomodoro-app)** (Swift + SwiftUI)  
+- 👨‍🍳 **[RecipesApp](https://github.com/antonio93hb/RecipesApp)** (SwiftUI + Swift Data)  
+- ✈️ **[Minijuego de Aviones](https://github.com/antonio93hb/MinijuegoAviones)** (Unity + C#)
+- 🪐 **[PlanetsApp](https://github.com/antonio93hb/PlanetsApp)** (Swift +  SwiftUI)  
 - 🌐 **[Mi portafolio](https://antonio93hb.github.io/portfolio/index.html)** (HTML, CSS, JavaScript)  
 
 ## 📫 Contacto  
