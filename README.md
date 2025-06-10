@@ -22,10 +22,18 @@ Tengo experiencia de trabajo como  iOS Developer  y experiencia formativa 
 🔹 **Otros**: GitHub, Git, Markdown, Fork, GitKraken  
 
 ## 📌 Proyectos destacados  
-- 👨‍🍳 **[RecipesApp](https://github.com/antonio93hb/RecipesApp)** (SwiftUI + Swift Data)  
+
+🔹**WEB**
+- 🌐 **[Mi portafolio](https://antonio93hb.github.io/portfolio/index.html)** (HTML, CSS, JavaScript)
+  
+🔹**JUEGO**
 - ✈️ **[Minijuego de Aviones](https://github.com/antonio93hb/MinijuegoAviones)** (Unity + C#)
-- 🪐 **[PlanetsApp](https://github.com/antonio93hb/PlanetsApp)** (Swift +  SwiftUI)  
-- 🌐 **[Mi portafolio](https://antonio93hb.github.io/portfolio/index.html)** (HTML, CSS, JavaScript)  
+  
+🔹** iOS **
+- 🪐 **[PlanetsApp](https://github.com/antonio93hb/PlanetsApp)** (Swift + SwiftUI)  
+- 👨‍🍳 **[RecipesApp](https://github.com/antonio93hb/RecipesApp)** (SwiftUI + Swift Data)  
+- 🖼️ **[THE MET](https://github.com/antonio93hb/MinijuegoAviones)** (SwiftUI + Swift Data + Network)
+
 
 ## 📫 Contacto  
 📧 Email: [antonio93hb@hotmail.com](mailto:antonio93hb@hotmail.com)  
